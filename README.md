@@ -1,6 +1,14 @@
 # 📊 Marketing Analytics Dashboard
 
-Recreación del dashboard **Executive Summary** de Improvado, construida con Python + Streamlit.
+End-to-end marketing analytics dashboard built as part of a Technical Customer Success assignment. Recreates a professional BI dashboard (Improvado Executive Summary) using real PPC data from Kaggle — no dummy data.
+
+Covers the full pipeline: raw data ingestion → channel mapping → metric aggregation → interactive visualization. Demonstrates applied data science in a marketing analytics context.
+
+Stack: Python · Streamlit · Plotly · Pandas  
+Data: Kaggle — PPC Campaign Performance Dataset (888 campaigns, 2024)  
+Deploy: Streamlit Cloud  
+
+Key metrics: Spend, CPM, CTR, CPC, Impressions, Conversions, Conversion Rate, Revenue
 
 ## Dataset
 - **Fuente:** [PPC Campaign Performance Data — Kaggle](https://www.kaggle.com/datasets/aashwinkumar/ppc-campaign-performance-data)
